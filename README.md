@@ -21,3 +21,9 @@
     <li>Focusing on learning [languages or technologies you're currently studying] right now.</li>-->
   </ul>
 </div>
+
+<div id="stats">
+  <h2>Github Stats</h2>
+  ![Jane's GitHub stats](https://github-readme-stats.vercel.app/api?username=janehernandez&show_icons=true&theme=tokyonight)
+</div>
+
